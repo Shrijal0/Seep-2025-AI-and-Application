@@ -1,6 +1,6 @@
 # Function for converting between different length units
 def length_conversion(): 
-    print("\nLength Conversion:")
+    print("Length Conversion:")
     print("1. Meters to Kilometers")
     print("2. Kilometers to Meters")
     print("3. Miles to Kilometers")
@@ -31,7 +31,7 @@ def length_conversion():
 
 # Function for converting between temperature units
 def temperature_conversion():   
-    print("\nTemperature Conversion:")
+    print("Temperature Conversion:")
     print("1. Celsius to Fahrenheit")
     print("2. Fahrenheit to Celsius")
 
@@ -54,7 +54,7 @@ def temperature_conversion():
 
 # Function for converting between weight units
 def weight_conversion():
-    print("\nWeight Conversion:")     
+    print("Weight Conversion:")     
     print("1. Kilograms to Pounds")
     print("2. Pounds to Kilograms")
 
